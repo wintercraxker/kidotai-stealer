@@ -27,7 +27,6 @@ Welcome to **KidotaiStealer**, a powerful Stealer to make your operation the bes
 - 💻 **Discord injection** - The best discord injection to you!
 - 🔥 **Wallets Stealer** - Push all cryptowallets
 - **AND MORE!**
-
 ---
 
 ## ☠️ Preview
