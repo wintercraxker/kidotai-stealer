@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/8IzAYKhWr9MAAAAd/newjeans-ohh.gif" width="400">
+  <img src="./img/kidota554444i.png" width="250">
 </p>
 
 
